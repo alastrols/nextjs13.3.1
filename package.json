@@ -1,0 +1,43 @@
+{
+  "name": "nextapi",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.8",
+    "@emotion/styled": "^11.10.8",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.12.2",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@types/file-saver": "^2.0.5",
+    "@types/node": "18.16.3",
+    "@types/react": "18.2.0",
+    "@types/react-dom": "18.2.1",
+    "axios": "^1.4.0",
+    "cookies-next": "^2.1.1",
+    "css-loader": "^6.7.3",
+    "eslint": "8.39.0",
+    "eslint-config-next": "13.3.1",
+    "exceljs": "^4.3.0",
+    "less": "^4.1.3",
+    "less-loader": "^11.1.0",
+    "mini-css-extract-plugin": "^2.7.5",
+    "mysql2": "^3.2.4",
+    "next": "13.3.1",
+    "next-redux-wrapper": "^8.1.0",
+    "nextjs-cors": "^2.1.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.4.2",
+    "typescript": "5.0.4"
+  }
+}
