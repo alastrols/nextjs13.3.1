@@ -13,7 +13,7 @@ export default function Document() {
         />
       </Head>
       <body>
-        <title>Title</title>
+        <title></title>
         <meta name="description" content="SEO Desctiption" />
         <Main />
         <NextScript />
